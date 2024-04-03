@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://github.com/hhcczz/Idle-Game" target="_blank"><img src="https://img.shields.io/badge/춘시기-배경색?style=plastic&logo=aiqfome&logoColor=#FFA500"/></a>
 <!--
 **hhcczz/hhcczz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
