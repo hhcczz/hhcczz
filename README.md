@@ -7,7 +7,7 @@
 [나만의 작은 용사](https://github.com/hhcczz/Idle-Game)
 
 ## 프로그램 개발
-[StockReport]([https://github.com/hhcczz/](https://github.com/hhcczz/StockReport))
+[StockReport](https://github.com/hhcczz/StockReport)
 
 ## 코딩테스트 준비
 [BaekJoon](https://github.com/hhcczz/BaekJoon)
