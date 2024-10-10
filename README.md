@@ -19,4 +19,5 @@
 
 ## ETC
 [마인크래프트 스크립트](https://github.com/hhcczz/MinecraftSkript)
+[영상처리](https://github.com/hhcczz/IP2024)
 
