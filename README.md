@@ -10,6 +10,7 @@
 
 ## 게임 개발
 [나만의 작은 용사](https://github.com/hhcczz/Idle-Game)
+[개구리 모험](https://github.com/hhcczz/JumpGame)
 
 ## 프로그램 개발
 [StockReport](https://github.com/hhcczz/StockReport)
